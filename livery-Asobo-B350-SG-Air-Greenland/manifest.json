@@ -1,0 +1,20 @@
+{
+  "dependencies": [
+    {
+      "name": "SG Beechcraft King Air 350i Air Greenland",
+      "package_version": "0.1.0"
+    }
+],
+  "content_type": "AIRCRAFT",
+  "title": "SG Beechcraft King Air 350i Air Greenland",
+  "manufacturer": "Textron Aviation",
+  "creator": "kp",
+  "package_version": "0.1.0",
+  "minimum_game_version": "1.7.12",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}
